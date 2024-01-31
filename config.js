@@ -1,1 +1,0 @@
-var API_KEY="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"
